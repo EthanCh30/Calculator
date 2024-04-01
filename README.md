@@ -6,7 +6,7 @@ The Calculator is a web application that mimics the style of the Apple system ca
 
 Here's a glimpse of the Calculator, highlighting its features and aesthetics.
 
-![calculator](C:\Users\56530\Desktop\calculator.png)
+ ![Image text](https://github.com/EthanCh30/img-store/blob/master/img-storage/calculator.png)
 
 Main view of the Calculator
 
